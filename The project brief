@@ -1,0 +1,26 @@
+# F.A.A-PowerBI-visualisation
+
+Worked with a simulated database from the Federal Aviation Administration to analyse 2M commercial flights and understand why certain flights were canceled or delayed.
+
+Using Power BI, I transformed the raw data into a user-friendly, interactive dashboard to help stakeholders drill into flight delays and cancellations by airport, airline, day of week, and more.
+
+On a technical side I:
+
+✔️ Loaded and transformed the raw data
+
+✔️ Built a relational data model
+
+✔️ Added calculated columns & DAX measures
+
+✔️ Designed a stunning, interactive dashboard
+
+*
+This was a self-taught project I completed through Maven Analytics walthorugh on Youtube.
+
+
+
+
+
+
+
+
